@@ -5,3 +5,4 @@ doc = Document("demo.docx")
 
 for style in doc.styles:
     print(style.name)
+
